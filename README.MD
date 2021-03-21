@@ -1,0 +1,1 @@
+Django application using PostgreSQL for managing database
